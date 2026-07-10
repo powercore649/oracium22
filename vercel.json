@@ -1,0 +1,8 @@
+{
+  "env": {
+    "BRIDGE_URL": "http://194.62.248.55:30025"
+  },
+  "buildCommand": "next build",
+  "outputDirectory": ".next",
+  "framework": "nextjs"
+}
